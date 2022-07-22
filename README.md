@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://twitter.com/bharti_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharti_777" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/venkat bharti thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkat bharti thakur" height="30" width="40" /></a>
-<a href="https://fb.com/nitin yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitin yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/b_h_a_r_t_i_2407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b_h_a_r_t_i_2407" height="30" width="40" /></a>
 </p>
 
@@ -28,7 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatbharti&show_icons=true&locale=en&layout=compact" alt="venkatbharti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatbharti&show_icons=true&locale=en" alt="venkatbharti" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-projects?username=venkatbharti&show_icons=true&locale=en&layout=compact" alt="venkatbharti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatbharti&" alt="venkatbharti" /></p>
