@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋
  <h2 align="center">I'm Venkat Bharti Thakur
 <h3 align="center">A passionate developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src=https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatbharti&label=Profile%20views&color=0e75b6&style=flat" alt="venkatbharti" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bharti_777" target="blank"><img src="https://img.shields.io/twitter/follow/bharti_777?logo=twitter&style=for-the-badge" alt="bharti_777" /></a> </p>
 
 - 🌱 I’m currently learning **Arduino**
 
